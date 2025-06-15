@@ -6,6 +6,7 @@ Modern and responsive landing page developed for QuickSV, focused on the present
 
 ![image](https://github.com/user-attachments/assets/5b4556ee-45c3-43a9-998f-ea58e819eefa)
 
+![image](https://github.com/user-attachments/assets/83d4d79a-1f35-40ab-89e6-d1777d459a94)
 
 ## 🚀 Features
 
